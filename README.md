@@ -18,8 +18,8 @@ The dashboard helps healthcare administrators and analysts monitor waiting times
 
 ## 📸 Dashboard Screenshot  
 
-![Dashboard Preview](./images/dashboard.png)  
-![ToolKit Preview](./images/ToolKit.png)  
+![Dashboard Preview](./Images/dashboard.png)  
+![ToolKit Preview](./Images/ToolKit.png)  
 
 ---
 
