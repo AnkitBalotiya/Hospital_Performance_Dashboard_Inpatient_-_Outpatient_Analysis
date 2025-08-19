@@ -78,7 +78,7 @@ NoDataRight =
         "No data For selected filter",
         ""
     )
-
+```
 
 ## 🧹 Data Cleaning (Power Query)
 
